@@ -1,4 +1,4 @@
-# scaling-train
+# google-play-data-analysis
 
 # 📱 Google Play Store Data Analysis
 
