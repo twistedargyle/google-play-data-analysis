@@ -37,7 +37,7 @@ This project explores trends in the Google Play Store dataset, focusing on app p
 ---
 
 ### 5. Top Categories by Installs
-![Rating Distribution by App Type](lhttps://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/5_distribution_of_free_vs_paid.png?raw=true)
+![Rating Distribution by App Type](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/5_distribution_of_free_vs_paid.png?raw=true)
 📥 This chart ranks categories based on total installations. 'Communication' and 'Tools' categories lead, reflecting the utility apps' wide appeal.
 ---
 
