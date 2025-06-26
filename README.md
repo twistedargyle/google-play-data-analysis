@@ -17,32 +17,32 @@ This project explores trends in the Google Play Store dataset, focusing on app p
 ## 📊 Visualizations
 
 ### 1. Average Rating by Category
-![Rating Distribution](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/1_distribution_of_app_ratings?raw=true)
+![Rating Distribution](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/1_distribution_of_app_ratings.png?raw=true)
 
 ---
 
 ### 2. App Count by Category
-![App Count by Type (Free vs Paid)](link_to_your_image_2)
+![App Count by Type (Free vs Paid)](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/2_app_count_by_type.png?raw=true)
 
 ---
 
 ### 3. Price Distribution of Paid Apps
-![Price Distribution](link_to_your_image_3)
+![Price Distribution](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/3_price_-distribution.png?raw=true)
 
 ---
 
 ### 4. App Count by Category
-![Rating vs Installs](link_to_your_image_4)
+![Rating vs Installs](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/4_top_categories.png?raw=true)
 
 ---
 
 ### 5. Top Categories by Installs
-![Rating Distribution by App Type](link_to_your_image_5)
+![Rating Distribution by App Type](lhttps://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/5_distribution_of_free_vs_paid.png?raw=true)
 
 ---
 
 ### 6. Average Price by Category
-![Correlation: Installs vs. Ratings](link_to_your_image_6)
+![Correlation: Installs vs. Ratings](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/6_installs_vs_rating_log.png?raw=true)
 
 ---
 
