@@ -17,7 +17,7 @@ This project explores trends in the Google Play Store dataset, focusing on app p
 ## 📊 Visualizations
 
 ### 1. Average Rating by Category
-![Average Rating by Category](https://github.com/twistedargyle/google-play-data-analysis/blob/main/1_distribution_of_app_ratings?raw=true)
+![Average Rating by Category](https://github.com/twistedargyle/google-play-data-analysis/blob/main/visuals/1_distribution_of_app_ratings?raw=true)
 
 ---
 
