@@ -1,65 +1,66 @@
 # google-play-data-analysis
 
-# 📱 Google Play Store Data Analysis
+# 📱 Google Play Store App Analysis
 
-A data exploration project analyzing trends across 10,000+ apps from the Google Play Store. The goal is to uncover actionable insights for product managers and marketers by examining patterns in app categories, ratings, pricing, and user engagement.
-
----
-
-## 📊 Project Summary
-
-| Field              | Description                                               |
-|-------------------|-----------------------------------------------------------|
-| **Role**          | Data Analyst                                              |
-| **Dataset**       | Google Play Store Data (Kaggle Public Dataset)            |
-| **Size**          | ~10,000 app listings                                      |
-| **Tools Used**    | Excel, Google Sheets, Tableau (or Google Data Studio)     |
-| **Techniques**    | Data cleaning, EDA, visualization, segmentation           |
+This project explores trends in the Google Play Store dataset, focusing on app popularity, pricing, and user satisfaction. The analysis was done using Python, pandas, seaborn, and matplotlib.
 
 ---
 
-## 🔍 Objectives
-
-- Analyze distribution of app categories and their rating patterns
-- Compare performance between **free vs. paid** apps
-- Identify relationships between **price, rating, and engagement**
-- Explore **content ratings** across categories
-
----
-
-## 📈 Sample Visualizations (to include)
-
-- Bar chart: Top 10 categories by number of apps
-- Boxplot: App ratings across categories
-- Histogram: Distribution of app sizes or prices
-- Scatter plot: Reviews vs. Installs
-- Pie chart: Content rating breakdown
+## 🔍 Key Questions
+- What categories dominate the app store?
+- How does pricing vary by category?
+- Do higher installs correlate with better ratings?
+- Which app types earn the highest average rating?
 
 ---
 
-## 💡 Key Insights (sample ideas)
+## 📊 Visualizations
 
-- Productivity and Finance apps had higher engagement-to-app volume ratios.
-- Free apps dominated the marketplace but had more volatile ratings.
-- Family and Tools categories showed heavy saturation but low average ratings.
-
----
-
-## 📁 Project Files
-
-- `googleplaystore.csv` – Raw dataset  
-- `notebook.ipynb` – (Optional) Jupyter exploration  
-- `dashboard.pdf` – Screenshots or links to visualizations  
-- `summary.md` – Project insights in written form
+### 1. Average Rating by Category
+![Average Rating by Category](link_to_your_image_1)
 
 ---
 
-## 🧠 Next Steps
-
-- Create prediction model for app rating based on features  
-- Build a dashboard to explore app performance by region or language  
-- Correlate app updates with rating trends over time
+### 2. App Count by Category
+![Top 10 Categories by Count](link_to_your_image_2)
 
 ---
 
-*Built as part of my data portfolio. Contact me at [briancalkins7@gmail.com](mailto:briancalkins7@gmail.com) for collaboration or freelance opportunities.*
+### 3. Price Distribution of Paid Apps
+![Price Distribution](link_to_your_image_3)
+
+---
+
+### 4. Rating vs Installs
+![Rating vs Installs](link_to_your_image_4)
+
+---
+
+### 5. Top Categories by Installs
+![Top Categories by Installs](link_to_your_image_5)
+
+---
+
+### 6. Average Price by Category
+![Average Price by Category](link_to_your_image_6)
+
+---
+
+## 🛠 Tools Used
+- Python
+- Jupyter Notebook
+- pandas
+- seaborn
+- matplotlib
+- GitHub
+
+---
+
+## 📂 Dataset
+[Google Play Store Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+
+---
+
+## 📬 Contact
+**Brian Calkins**  
+[LinkedIn](https://www.linkedin.com/in/bcalkinsdatastylist/) | briancalkins7@gmail.com
